@@ -10,3 +10,4 @@ Data Scientist Professor @ Howard University
 - Develeped a BS program in Data Science
 - Co-creator of Howard University's Coursera DS course
 ### Projects
+https://github.com/doumbiassa/practice_ud.git
