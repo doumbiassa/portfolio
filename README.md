@@ -1,4 +1,4 @@
-# Data Science
+# Data Science Professor
 
 ### Education
 Mathematics, Ph.D.
